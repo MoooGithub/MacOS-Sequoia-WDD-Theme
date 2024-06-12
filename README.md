@@ -1,0 +1,1 @@
+# MacOS-Sequoia-WDD-Theme
