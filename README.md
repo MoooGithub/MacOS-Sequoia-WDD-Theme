@@ -1,5 +1,3 @@
-# MacOS-Sequoia-WDD-Theme
-
 ## Previews
 
 | <p>**Sequoia Light Mode**</p> [![Sequoia Light Mode](images/MacOS_Sequoia_1.jpg)]() | <p>**Sequoia Dark Mode**</p> [![Sequoia Dark Mode](images/MacOS_Sequoia_2.jpg)]() |
